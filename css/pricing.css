@@ -31,6 +31,7 @@
 
 .pricing__feature-list {
 	text-align: left;
+
 }
 
 .pricing__action {
@@ -138,7 +139,7 @@
 	/*padding: 0.25em 0 2.5em;*/
 	list-style: none;
 	text-align: center;
-	color: #8b909d;
+    color: #8b909d;
 	padding: 0 0 2em 0;
 }
 
